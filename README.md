@@ -15,3 +15,6 @@ Add or remove customers with ease, ensuring streamlined account management.
 Seamlessly delete associated accounts when customers are removed, maintaining data integrity.
 
 With robust authentication measures and individualized file storage for customer data, this application prioritizes security while delivering a user-friendly banking experience. 
+
+# To use 
+download these files, then on ensure Java FX is installed. Once that is installed make a project and upload these files onto that and run
